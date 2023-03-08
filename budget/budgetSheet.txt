@@ -1,0 +1,11 @@
+
+With a salary of R20000 
+=========================== 
+savings_and_investments:    R4000.0personal money:             R2000.0contingency_cash:           R1400.0000000000002quick_cash:                 R1000.0 donation money              R600.0'family' money              R1000.0 
+TOTAL:                      R10000.0 
+
+With a salary of R30000 
+=========================== 
+savings_and_investments:    R6000.0personal money:             R3000.0contingency_cash:           R2100.0quick_cash:                 R1500.0 donation money              R900.0'family' money              R1500.0 
+TOTAL:                      R15000.0 
+
